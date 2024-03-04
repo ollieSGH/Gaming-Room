@@ -1,1 +1,19 @@
 # Gaming-Room
+
+1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming Room is a company that designs Android-based apps. They wanted this app to be ported to the web and other operating systems. They also wanted to ensure crossplay between all of these different platforms was easy and seamless while preserving ease of use, security, and user data.
+
+2. What did you do particularly well in developing this documentation?
+We analyzed and laid out each technical aspect of the project that would need to be fulfilled for it to work, such as the OS of choice, the programming languages, the storage systems, etc. We then laid out the pros and cons of each of the choices, giving us clear understanding of our many options and a more insightful approach to determining our strategy.
+
+3. What about the process of working through a design document did you find helpful when developing the code?
+It helped me to lay out all of the different choices for fulfilling the requirements of the project. A lot of people, including myself, have preferences for how to build a project simply based on past experience and often bias. Doing research and laying all of the options out helps to not only ensure the project is developed and ran in the most efficient way, but also expands my expertise in the field and helps with developing future projects.
+
+4. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would love to gain more experience with other operating systems such as Linux or Mac and then revisit if I have a different opinion. I feel that while researching the different ways of fulfilling the client's needs helped, having hands-on experience with these platforms would give me a more grounded view of development.
+
+5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+The client had already developed their own Android app before coming to us. They know their game better than others but didn't know how to expand it the way they wanted. The Gaming Room did not want the finished project to be something completely different from what they originally envisioned - if we weren't able to see their vision and bring it to life the way they wanted, then there was no point in them ever coming to us, thus it is always important to consider the user's needs during development. We interpeted the user's needs based on the requirements they laid out for us and laying out each of the options for fulfilling them. We listed the pros and cons of each option, from cloud-based storage and hard storage to operating systems like Mac, Linux, and Windows. By doing this, we not only gave ourselves options, but also put the different strategies into a language that The Gaming Room and us could talk about easily.
+
+6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I approached it by creating this software design document to lay out the different methods and options available for fulfilling The Gaming Room's requirements for their project. When it comes to software, I ensured to bring together lists of the different options for storage, hosting, security, and development environments as these will be important for the process of development as well as the anticipation of any issues or problems that could arise later on. In the future, I would utilize my experience with developing with different systems such as those I selected to benefit me when designing other software applications because in this field, it is common for the majority of issues to be solved with the same solution.
